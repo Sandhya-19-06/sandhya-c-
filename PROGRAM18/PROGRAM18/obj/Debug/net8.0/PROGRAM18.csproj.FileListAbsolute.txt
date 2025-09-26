@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\bin\Debug\net8.0\PROGRAM18.exe
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\bin\Debug\net8.0\PROGRAM18.deps.json
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\bin\Debug\net8.0\PROGRAM18.runtimeconfig.json
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\bin\Debug\net8.0\PROGRAM18.dll
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\bin\Debug\net8.0\PROGRAM18.pdb
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\PROGRAM18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\PROGRAM18.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\PROGRAM18.AssemblyInfo.cs
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\PROGRAM18.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\PROGRAM18.dll
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\refint\PROGRAM18.dll
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\PROGRAM18.pdb
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\PROGRAM18.genruntimeconfig.cache
+C:\Users\Student\Desktop\sandhyac\PROGRAM18\PROGRAM18\obj\Debug\net8.0\ref\PROGRAM18.dll
