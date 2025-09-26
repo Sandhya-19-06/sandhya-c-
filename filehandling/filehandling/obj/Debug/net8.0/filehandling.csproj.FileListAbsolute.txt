@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\bin\Debug\net8.0\filehandling.exe
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\bin\Debug\net8.0\filehandling.deps.json
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\bin\Debug\net8.0\filehandling.runtimeconfig.json
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\bin\Debug\net8.0\filehandling.dll
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\bin\Debug\net8.0\filehandling.pdb
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\filehandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\filehandling.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\filehandling.AssemblyInfo.cs
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\filehandling.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\filehandling.dll
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\refint\filehandling.dll
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\filehandling.pdb
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\filehandling.genruntimeconfig.cache
+C:\Users\Student\Desktop\sandhyac\filehandling\filehandling\obj\Debug\net8.0\ref\filehandling.dll

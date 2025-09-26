@@ -1,0 +1,2 @@
+File Handling in c# is easy ! 
+ lets read this file next.
