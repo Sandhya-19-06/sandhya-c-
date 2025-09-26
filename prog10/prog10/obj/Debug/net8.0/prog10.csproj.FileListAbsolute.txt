@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\bin\Debug\net8.0\prog10.exe
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\bin\Debug\net8.0\prog10.deps.json
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\bin\Debug\net8.0\prog10.runtimeconfig.json
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\bin\Debug\net8.0\prog10.dll
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\bin\Debug\net8.0\prog10.pdb
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\prog10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\prog10.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\prog10.AssemblyInfo.cs
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\prog10.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\prog10.dll
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\refint\prog10.dll
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\prog10.pdb
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\prog10.genruntimeconfig.cache
+C:\Users\Student\Desktop\sandhyac\prog10\prog10\obj\Debug\net8.0\ref\prog10.dll
