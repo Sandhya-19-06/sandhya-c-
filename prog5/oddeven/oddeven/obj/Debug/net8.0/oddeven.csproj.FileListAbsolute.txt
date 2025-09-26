@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\bin\Debug\net8.0\oddeven.exe
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\bin\Debug\net8.0\oddeven.deps.json
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\bin\Debug\net8.0\oddeven.runtimeconfig.json
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\bin\Debug\net8.0\oddeven.dll
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\bin\Debug\net8.0\oddeven.pdb
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\oddeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\oddeven.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\oddeven.AssemblyInfo.cs
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\oddeven.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\oddeven.dll
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\refint\oddeven.dll
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\oddeven.pdb
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\oddeven.genruntimeconfig.cache
+C:\Users\Student\Desktop\sandhyac\oddeven\oddeven\obj\Debug\net8.0\ref\oddeven.dll
