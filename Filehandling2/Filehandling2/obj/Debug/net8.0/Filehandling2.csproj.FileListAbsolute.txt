@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\bin\Debug\net8.0\Filehandling2.exe
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\bin\Debug\net8.0\Filehandling2.deps.json
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\bin\Debug\net8.0\Filehandling2.runtimeconfig.json
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\bin\Debug\net8.0\Filehandling2.dll
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\bin\Debug\net8.0\Filehandling2.pdb
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\Filehandling2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\Filehandling2.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\Filehandling2.AssemblyInfo.cs
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\Filehandling2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\Filehandling2.dll
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\refint\Filehandling2.dll
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\Filehandling2.pdb
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\Filehandling2.genruntimeconfig.cache
+C:\Users\Student\Desktop\sandhyac\Filehandling2\Filehandling2\obj\Debug\net8.0\ref\Filehandling2.dll
