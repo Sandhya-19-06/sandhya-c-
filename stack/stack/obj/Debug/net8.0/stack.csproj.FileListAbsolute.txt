@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sandhyac\stack\stack\bin\Debug\net8.0\stack.exe
+C:\Users\Student\Desktop\sandhyac\stack\stack\bin\Debug\net8.0\stack.deps.json
+C:\Users\Student\Desktop\sandhyac\stack\stack\bin\Debug\net8.0\stack.runtimeconfig.json
+C:\Users\Student\Desktop\sandhyac\stack\stack\bin\Debug\net8.0\stack.dll
+C:\Users\Student\Desktop\sandhyac\stack\stack\bin\Debug\net8.0\stack.pdb
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\stack.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\stack.AssemblyInfo.cs
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\stack.dll
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\refint\stack.dll
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\stack.pdb
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\stack.genruntimeconfig.cache
+C:\Users\Student\Desktop\sandhyac\stack\stack\obj\Debug\net8.0\ref\stack.dll
